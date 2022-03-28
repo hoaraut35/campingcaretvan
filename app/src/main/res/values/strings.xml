@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camping car et van</string>
+    <string name="my_location_label">My lmocation</string>
+    <string name="set_location_label">Search location</string>
+</resources>
